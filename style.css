@@ -20,6 +20,10 @@ div.section-title {
   background-color: rgb(233, 255, 40);
 }
 
+div.section-title {
+  background-color: red;
+}
+
 div.response-1 {
   background-color: rgb(255, 255, 255);
   display: flexbox;
@@ -48,4 +52,15 @@ div.response-3 {
   float: left;
   width: 30%;
   justify-content: space-around;
+}
+
+header {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  color: rgb(255, 255, 255);
+}
+
+h1 {
+  text-align: center;
 }
